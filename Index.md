@@ -10,6 +10,7 @@
 - 🔹 [Database](DB.pdf)
 - 🔹 [Entity Framework Core](Entity_Framework_Core.pdf)
 - 🔹 [ASP.NET Web API](_ASP.net_web_api.pdf)
+- 🔹 [ASP.Net MVC](ASP.Net MVC.pdf)
 - 🔹 [Redis](_Redis.pdf)
 - 🔹 [SOLID Principles](Solids.pdf)
 - 🔹 [Design Patterns](_Design_Patterns_.pdf)
@@ -26,3 +27,4 @@
 ---
 
 > 🎯 All summaries are carefully crafted by [Ahmed Hany](https://github.com/AhmedHany140) to help developers learn and grow efficiently.
+> ⚠️Only MVC Summary is not created by me but i wanted to share it with eveyone  it's a perfict for every one to study from it 
